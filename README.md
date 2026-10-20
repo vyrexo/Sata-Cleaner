@@ -1,4 +1,4 @@
-<p align="center"> <img src="images/icon.ico" alt="Sata Cleaner" width="700"/> </p> 
+<p align="center"> <img src="images/icon.ico" alt="Sata Cleaner" width="100"/> </p> 
 
 # Sata Cleaner
 ## Safe Windows cleanup: temp files, caches, logs and dumps. 60+ categories, sensitive ones disabled by default. 32/64-bit, Windows 7–11.
