@@ -1,5 +1,14 @@
 <p align="center"> <img src="images/icon.ico" alt="Sata Cleaner" width="100"/> </p> 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Windows%207%20%7C%208%20%7C%2010%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Platform">
+  <img src="https://img.shields.io/badge/Architecture-32--bit%20%2F%2064--bit-lightgrey?style=for-the-badge" alt="Architecture">
+  <img src="https://img.shields.io/badge/License-Freeware-brightgreen?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/Telemetry-None-success?style=for-the-badge" alt="No Telemetry">
+  <img src="https://img.shields.io/badge/Ads-None-success?style=for-the-badge" alt="No Ads">
+  <img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge" alt="Version">
+</p>
+
 # Sata Cleaner
 ## Safe Windows cleanup: temp files, caches, logs and dumps. 60+ categories, sensitive ones disabled by default. 32/64-bit, Windows 7–11.
 
