@@ -163,7 +163,7 @@ Windows 7 / 8 / 8.1 / 10 / 11
 Administrator rights (for stopping services and cleaning system folders)
 
 # Download
-## The latest version is available on the [**`Releases page`**](https://github.com/vyrexo/Sata-Cleaner/releases/tag/1.0).
+## The latest version is available on the [**`Releases page`**](https://github.com/vyrexo/Sata-Cleaner/releases/tag/1.0.1).
 
 #### Usage recommendations
 Before the first run, close browsers and applications whose caches you plan to clean.
